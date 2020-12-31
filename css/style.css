@@ -1,0 +1,140 @@
+body {
+    padding-bottom: 20px;
+    color: #999999;
+    font-family: 'Roboto', sans-serif !important;
+}
+.bg_principal{
+
+}
+.cyan .text {
+    color: #38C5C1
+}
+.cyan.bg {
+    background-color: #38C5C1;
+}
+.cyan.bg .title{
+    color: #FFF;
+}
+.cyan .bg {
+    background-color: #38C5C1;
+    min-height: 170px;
+    align-items: center;
+    display: flex;
+}
+.cyan .bg p {
+    color: #FFF;
+    font-weight: normal;
+    font-size: 1.0rem;
+    line-height: 140%;
+}
+.title {
+    text-decoration: underline;
+    text-underline-position: under;
+}
+.amarillo .text {
+    color: #FCCA00
+}
+.amarillo .bg {
+    background-color: #FCCA00;
+}
+.amarillo .bg p {
+    color: #FCCA00;
+    color: #4D4D4D
+}
+header {
+  
+    overflow: hidden;
+}
+.banner {
+    z-index: 1;
+    position: relative;
+}
+.contexto {
+    background-color: #F2F2F2;
+}
+body .rounded {
+    border-radius: 20px !important;
+    position: relative;
+}
+body .rounded .icon {
+    position: absolute;
+    left: -40px
+}
+.beneficios {
+    background-color: #F2F2F2;
+}
+.beneficios img, .proteccion img, .trabajadores img {
+    object-fit: contain;
+    margin-right: auto;
+    margin-left: auto;
+}
+.proteccion .item {
+    min-height: 395px;
+}
+.trabajadores strong.display-1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: #FCCA00;
+}
+footer {
+    background-color: #E6E6E6;
+}
+
+
+
+
+
+#banner { padding: 10px 0; background: #38c4c1}
+
+.v_1 { display: table; height: 100%; background: #fdca00 ; width: 100%}
+.v_2 { display: table-cell; vertical-align: middle; padding: 60px 0}
+.v_2 img { max-width: 160px;}
+
+
+
+@media (max-width: 575.98px) {
+    .order-sm-0 {
+        order: 0
+    }
+    .order-sm-1 {
+        order: 1
+    }
+    .order-sm-2 {
+        order: 2
+    }
+    .order-sm-3 {
+        order: 3
+    }
+    .order-sm-4 {
+        order: 4
+    }
+    .order-sm-5 {
+        order: 5
+    }
+    .order-sm-6 {
+        order: 6
+    }
+    .order-sm-7 {
+        order: 7
+    }
+    .order-sm-8 {
+        order: 8
+    }
+    .order-sm-9 {
+        order: 9
+    }
+    .order-sm-10 {
+        order: 10
+    }
+	
+	
+	
+}
+
+
+
+
+
+
+
+
